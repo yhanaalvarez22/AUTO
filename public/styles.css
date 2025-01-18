@@ -1,6 +1,6 @@
 body {
      padding: 20px;
-     background-color: #f8f9fa;
+     background-color: blue;
      font-family: 'Poppins', sans-serif;
 }
  .container {
@@ -12,7 +12,7 @@ body {
      margin-bottom: 20px;
 }
  h1 {
-     color: #343a40;
+     color: white;
 }
  label {
      color: #495057;
