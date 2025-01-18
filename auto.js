@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const login = require('./fb-chat-api/index');
+const login = require('./heru-fca/index');
 const express = require('express');
 const app = express();
 const chalk = require('chalk');
